@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gladostg.github.io</id>
+    <title>数字移民</title>
+    <updated>2023-06-09T11:11:34.757Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gladostg.github.io"/>
+    <link rel="self" href="https://gladostg.github.io/atom.xml"/>
+    <logo>https://gladostg.github.io/images/avatar.png</logo>
+    <icon>https://gladostg.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 数字移民</rights>
+    <entry>
+        <title type="html"><![CDATA[GLaDOS 直达链接]]></title>
+        <id>https://gladostg.github.io/post/test/</id>
+        <link href="https://gladostg.github.io/post/test/">
+        </link>
+        <updated>2023-06-09T09:05:32.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://glados.best">glados.best</a><br>
+<a href="https://glados.eu.org">glados.eu.org</a><br>
+<a href="https://glados.network">glados.network</a><br>
+<a href="https://glados.work">glados.work</a><br>
+<a href="https://glados.rocks">glados.rocks</a><br>
+<a href="https://glados.one">glados.one</a><br>
+<a href="https://glados.vip">glados.vip</a><br>
+<a href="https://glados.top">glados.top</a></p>
+]]></content>
+    </entry>
+</feed>
